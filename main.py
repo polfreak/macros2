@@ -1,0 +1,7 @@
+import flet as ft
+
+from app import menu
+
+
+if __name__ == "__main__":
+    ft.run(menu)
